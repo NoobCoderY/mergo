@@ -12,7 +12,7 @@ This is a simple Express.js API for managing blog posts and comments with authen
    cd blog-api
 
 
-### Instaall dependecies
+### Install dependecies
  --npm i
 
  ### start server
