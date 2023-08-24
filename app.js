@@ -18,7 +18,7 @@ dotenv.config({
 
 
 app.use("/ap1/v1", blogRouter)
-app.use("/ap1/v1",userRouter)
+app.use("/",userRouter)
 
 
 
